@@ -81,3 +81,11 @@ Ctrl + R - search and replace<br />
 Ctrl +Alt + L - reformat code<br />
 Alt + Enter - show intention actions and quick-fixes<br />
 Ctrl + Shift + Enter - complete statement<br />
+
+
+11. Functional Programming<br/>
+For function as parameter and return value and closure<br/>
+https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/11/reservation.php
+
+For anonymous function:<br/>
+https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/11/staff.php
