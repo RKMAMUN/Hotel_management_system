@@ -7,6 +7,9 @@ The Hotel Management System in PHP is a small project developed using Laravel fr
 
 1. I used GitHub to store my project code. I also used GitHub action for continuous delivery.
 
+Project source code: https://github.com/RKMAMUN/Hotel_management_system/tree/main/Project
+Project UI Screenshot: https://github.com/RKMAMUN/Hotel_management_system/tree/main/User%20Interface
+
 
 
 
