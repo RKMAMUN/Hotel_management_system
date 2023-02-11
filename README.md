@@ -40,3 +40,16 @@ Here is my clean code points:
 I have also some screenshot as cheat sheet
 https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/5/Cheat%20Sheet.pdf
 
+
+
+7. Unit testing is a software testing technique in which individual units or components of a software application are tested in isolation from the rest of the application. The goal of unit testing is to validate that each unit or component of the application works as intended, and to detect and prevent bugs early in the development process. This can help to reduce the overall cost and time required to deliver a quality product.
+Unit tests are typically automated and are run frequently during the development process, such as after each change to the code or at least once a day. They are written by developers as part of the development process, and they provide a fast and efficient way to validate that the code works as expected.
+
+some example of tests:
+1. https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/7/reserve_room_test.php
+ 
+The test uses the assertTrue method to verify that the reserveRoom method returns true, indicating that the room was successfully reserved. It then uses the    assertFalse method to verify that the checkAvailability method returns false, indicating that the room is no longer available.
+
+2. https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/7/room_management_test.php
+The testAddRoom method tests the addRoom method by adding a room and verifying that it can be retrieved using the getRoom method.
+The testUpdateRoom method tests the updateRoom method by adding a room, updating its information, and verifying that the updated information is returned by the getRoom method.
