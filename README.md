@@ -30,4 +30,12 @@ https://sonarcloud.io/summary/new_code?id=RKMAMUN_Hotel_management_system
 5.Clean Code Development: Clean code refers to code that is well-organized, readable, maintainable, and easy to understand. It follows best practices, coding standards, and design patterns to ensure that the code is of high quality.
 In my project I tried to follow clean code.
 Here is my clean code points:
+ 1. Commenting where needed
+ 2. Proper naming of variables and functions
+ 3. Proper naming of files
+ 4. Avoiding repeat
+ 5. Standard formatting implemented
+ 6. No useless variables or functions defined
+I have also some screenshot as cheat sheet
+https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/5/Cheat%20Sheet.pdf
 
