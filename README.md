@@ -15,3 +15,5 @@ I will try to include required 11 points here.
 
 
 3. Domain-Driven Design (DDD) is an approach to software development that focuses on modeling the core business concepts and processes in a software system. DDD is based on the idea that the most important aspect of software design is understanding the problem domain, and that this understanding should be the driving force behind the design and development of the software.
+
+My DDD: https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/3/DDD.JPG
