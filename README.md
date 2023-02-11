@@ -83,8 +83,9 @@ Alt + Enter - show intention actions and quick-fixes<br />
 Ctrl + Shift + Enter - complete statement<br />
 
 
-11. Functional Programming<br/>
+11. Functional Programming: Functional programming is a programming paradigm that is based on the mathematical concept of functions. In functional programming, functions are treated as first-class citizens, meaning that they can be used just like any other data type in the language, such as numbers or strings.<br/>
 For function as parameter and return value and closure<br/>
+
 https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/11/reservation.php
 
 For anonymous function:<br/>
