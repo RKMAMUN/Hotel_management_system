@@ -63,3 +63,20 @@ The testUpdateRoom method tests the updateRoom method by adding a room, updating
 The testComplainMethod method tests the complain method by making a GET request to the complain route and verifying that the correct view is returned.
 The testGetComplainMethod method tests the getcomplain method by creating 5 complain records, making a GET request to the getcomplain route, and verifying that the correct number of records is returned.
 The testResolveMethod method tests the resolve method by creating a complain record, making a PUT request to the resolve route with the id and budget parameters, and verifying that the correct values are updated in the database.
+
+
+
+
+
+
+9. I used PhpStorm. PhpStorm is a popular Integrated Development Environment (IDE) for PHP development. It provides a wide range of features and tools to help developers write, debug, and maintain their code efficiently.
+
+My favorite shortcuts are:<br />
+Ctrl+ E - toggle between recently used files<br />
+Ctrl + / - comment/uncomment a block of code<br />
+Ctrl + B - go to the class declaration<br />
+Ctrl + N - navigate to class<br />
+Ctrl + R - search and replace<br />
+Ctrl +Alt + L - reformat code<br />
+Alt + Enter - show intention actions and quick-fixes<br />
+Ctrl + Shift + Enter - complete statement<br />
