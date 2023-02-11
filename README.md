@@ -36,6 +36,7 @@ Here is my clean code points:
  4. Avoiding repeat
  5. Standard formatting implemented
  6. No useless variables or functions defined
+
 I have also some screenshot as cheat sheet
 https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/5/Cheat%20Sheet.pdf
 
