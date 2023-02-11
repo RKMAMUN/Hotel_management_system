@@ -24,3 +24,10 @@ Activity Diagram: https://github.com/RKMAMUN/Hotel_management_system/blob/main/1
 My DDD: https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/3/DDD.JPG
 
 4. SonarCloud is a cloud-based platform for continuous code quality analysis and improvement. It is part of the SonarQube family of tools, which provide a comprehensive solution for managing code quality, security, and technical debt. I used SonarCloud for my project. Please, have a look at the provided links below:
+
+https://sonarcloud.io/summary/new_code?id=RKMAMUN_Hotel_management_system
+
+5.Clean Code Development: Clean code refers to code that is well-organized, readable, maintainable, and easy to understand. It follows best practices, coding standards, and design patterns to ensure that the code is of high quality.
+In my project I tried to follow clean code.
+Here is my clean code points:
+
