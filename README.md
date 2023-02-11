@@ -57,3 +57,9 @@ The test uses the assertTrue method to verify that the reserveRoom method return
 2. https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/7/room_management_test.php
 The testAddRoom method tests the addRoom method by adding a room and verifying that it can be retrieved using the getRoom method.
 The testUpdateRoom method tests the updateRoom method by adding a room, updating its information, and verifying that the updated information is returned by the getRoom method.
+
+3. https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/7/Complain_controller_test.php
+
+The testComplainMethod method tests the complain method by making a GET request to the complain route and verifying that the correct view is returned.
+The testGetComplainMethod method tests the getcomplain method by creating 5 complain records, making a GET request to the getcomplain route, and verifying that the correct number of records is returned.
+The testResolveMethod method tests the resolve method by creating a complain record, making a PUT request to the resolve route with the id and budget parameters, and verifying that the correct values are updated in the database.
