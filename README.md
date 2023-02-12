@@ -32,7 +32,7 @@ My DDD: https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points
 
 https://sonarcloud.io/summary/new_code?id=RKMAMUN_Hotel_management_system
 
-<p align="justify"><b>5.Clean Code Development:</b> Clean code refers to code that is well-organized, readable, maintainable, and easy to understand. It follows best practices, coding standards, and design patterns to ensure that the code is of high quality.</p>
+<p align="justify"><b>5. Clean Code Development:</b> Clean code refers to code that is well-organized, readable, maintainable, and easy to understand. It follows best practices, coding standards, and design patterns to ensure that the code is of high quality.</p>
 In my project I tried to follow clean code.
 Here is my clean code points:
  1. Commenting where needed
