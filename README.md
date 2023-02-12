@@ -21,7 +21,7 @@ Class Diagram: https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%2
 
 Use Case Diagram:https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/2/HMS_use_case_diagram.JPG
 
-Activity Diagram: https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/2/Activity%20Diagram.jpg
+Activity Diagram: https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/2/activity_diagram.JPG
 
 
 3. Domain-Driven Design (DDD) is an approach to software development that focuses on modeling the core business concepts and processes in a software system. DDD is based on the idea that the most important aspect of software design is understanding the problem domain, and that this understanding should be the driving force behind the design and development of the software.
