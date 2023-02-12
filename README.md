@@ -83,7 +83,7 @@ Ctrl +Alt + L - reformat code<br />
 Alt + Enter - show intention actions and quick-fixes<br />
 Ctrl + Shift + Enter - complete statement<br />
 
-<p align="justify"></b>10. A domain-specific language (DSL)</b> is a programming language that is tailored to a specific application domain, rather than being a general-purpose language that can be used for any kind of software development. A DSL is designed to make it easier to specify the operations and rules that are specific to a particular domain, and it often provides a higher level of abstraction than a general-purpose language. This makes DSLs more concise, expressive, and easier to understand for people who are experts in the target domain.</p><br/>
+<p align="justify"><b>10. A domain-specific language (DSL)</b> is a programming language that is tailored to a specific application domain, rather than being a general-purpose language that can be used for any kind of software development. A DSL is designed to make it easier to specify the operations and rules that are specific to a particular domain, and it often provides a higher level of abstraction than a general-purpose language. This makes DSLs more concise, expressive, and easier to understand for people who are experts in the target domain.</p><br/>
 
 Here's a small example of a Domain-Specific Language (DSL) in PHP:<br/>
 https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/10/DSL.php<br/>
