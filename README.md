@@ -42,6 +42,10 @@ Here is my clean code points:
  5. Standard formatting implemented
  6. No useless variables or functions defined
 
+7. Build management for PHP refers to the process of automating the build and deployment of PHP applications. This involves managing the build environment, defining build processes, and automating build and deployment tasks. The goal of build management for PHP is to streamline the development process, reduce errors, and increase efficiency.
+
+
+
 I have also some screenshot as cheat sheet
 https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/5/Cheat%20Sheet.pdf
 
@@ -81,6 +85,19 @@ Ctrl + R - search and replace<br />
 Ctrl +Alt + L - reformat code<br />
 Alt + Enter - show intention actions and quick-fixes<br />
 Ctrl + Shift + Enter - complete statement<br />
+
+10. A domain-specific language (DSL) is a programming language that is tailored to a specific application domain, rather than being a general-purpose language that can be used for any kind of software development. A DSL is designed to make it easier to specify the operations and rules that are specific to a particular domain, and it often provides a higher level of abstraction than a general-purpose language. This makes DSLs more concise, expressive, and easier to understand for people who are experts in the target domain.<br/>
+
+Here's a small example of a Domain-Specific Language (DSL) in PHP:<br/>
+https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/10/DSL.php<br/>
+In this example, I have created a PageBuilder class that has methods for building a simple HTML page. The header, content, and footer methods return the corresponding HTML code, and the build method combines these methods to build a complete HTML page. The build method is called with the title and content of the page, and the resulting HTML code is echoed to the screen.
+This example demonstrates how a DSL can be used to simplify a complex task by providing a simple and intuitive interface for building HTML pages. By using a DSL, developers can focus on the task at hand, rather than worrying about the underlying HTML code.
+
+I also wrote an example code for email validation check.<br/>
+https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/10/email_validation.php <br/>
+This example checks the validity of an email address and prints a message indicating whether the email address is valid or not. This function takes an email address as an argument and returns true if the email address is valid and false otherwise. The regular expression in the function checks the syntax of the email address to make sure that it meets the basic requirements for an email address, such as having a correct format for the username, domain name, and top-level domain.
+
+
 
 
 11. Functional Programming: Functional programming is a programming paradigm that is based on the mathematical concept of functions. In functional programming, functions are treated as first-class citizens, meaning that they can be used just like any other data type in the language, such as numbers or strings.<br/>
