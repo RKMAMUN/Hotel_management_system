@@ -45,7 +45,10 @@ Here is my clean code points:
 I have also some screenshot as cheat sheet
 https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/5/Cheat%20Sheet.pdf
 
-<p align="justify"><b>6. Build management</b> for PHP refers to the process of automating the build and deployment of PHP applications. This involves managing the build environment, defining build processes, and automating build and deployment tasks. The goal of build management for PHP is to streamline the development process, reduce errors, and increase efficiency.</p>
+<p align="justify"><b>6. Build management</b> for PHP refers to the process of automating the build and deployment of PHP applications. This involves managing the build environment, defining build processes, and automating build and deployment tasks. The goal of build management for PHP is to streamline the development process, reduce errors, and increase efficiency.</p></br>
+I used “npm run dev” to build my project. The build folder is then used to deploy my project. “npm run dev” does nothing. “npm run dev” produces a build directory containing a production build.
+
+https://github.com/RKMAMUN/Hotel_management_system/blob/main/Project/package-lock.json
 
 
 <p align="justify"><b>7. Unit testing</b> is a software testing technique in which individual units or components of a software application are tested in isolation from the rest of the application. The goal of unit testing is to validate that each unit or component of the application works as intended, and to detect and prevent bugs early in the development process. This can help to reduce the overall cost and time required to deliver a quality product.
@@ -67,7 +70,9 @@ The testGetComplainMethod method tests the getcomplain method by creating 5 comp
 The testResolveMethod method tests the resolve method by creating a complain record, making a PUT request to the resolve route with the id and budget parameters, and verifying that the correct values are updated in the database.</p>
 
 
+<p align="justify">8. Continuous delivery is a software development practice where code changes are automatically built, tested, and deployed to production. This can be achieved through the use of a continuous delivery pipeline, which automates the process of building, testing, and deploying code changes.</p>
 
+https://github.com/RKMAMUN/Hotel_management_system/blob/main/.github/workflows/laravel.yml
 
 
 
