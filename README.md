@@ -2,7 +2,7 @@
 ![](cover.jpeg)
 
 ###### Introduction:
-The Hotel Management System in PHP is a small project developed using Laravel framework and PHP, JavaScript, Bootstrap, html and CSS. The project contains an admin side. The admin side manages all the management like manage bookings, checking profit, payment, adding and deleting rooms etc. The admin has an important role in the management of this website.
+<p align="justify">The Hotel Management System in PHP is a small project developed using Laravel framework and PHP, JavaScript, Bootstrap, html and CSS. The project contains an admin side. The admin side manages all the management like manage bookings, checking profit, payment, adding and deleting rooms etc. The admin has an important role in the management of this website.</p>
 
 ###### I will try to include required 11 points here.
 
@@ -15,7 +15,7 @@ Project UI Screenshot: https://github.com/RKMAMUN/Hotel_management_system/tree/m
 
 
 
-2. UML stands for Unified Modeling Language, which is a graphical language used to model and describe software systems. UML provides a standardized way of visualizing the design of a software system, including its structure, behavior, and interactions between objects. UML diagrams can be used to model various aspects of a software system, including Class diagrams, which model the classes, attributes, and methods of a system, and the relationships between them.
+<p align="justify">2. UML stands for Unified Modeling Language, which is a graphical language used to model and describe software systems. UML provides a standardized way of visualizing the design of a software system, including its structure, behavior, and interactions between objects. UML diagrams can be used to model various aspects of a software system, including Class diagrams, which model the classes, attributes, and methods of a system, and the relationships between them.</p>
 
 Class Diagram: https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/2/HMS_Class_Diagram.JPG
 
@@ -24,15 +24,15 @@ Use Case Diagram:https://github.com/RKMAMUN/Hotel_management_system/blob/main/11
 Activity Diagram: https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/2/activity_diagram.JPG
 
 
-3. Domain-Driven Design (DDD) is an approach to software development that focuses on modeling the core business concepts and processes in a software system. DDD is based on the idea that the most important aspect of software design is understanding the problem domain, and that this understanding should be the driving force behind the design and development of the software.
+<p align="justify">3. Domain-Driven Design (DDD) is an approach to software development that focuses on modeling the core business concepts and processes in a software system. DDD is based on the idea that the most important aspect of software design is understanding the problem domain, and that this understanding should be the driving force behind the design and development of the software.</p>
 
 My DDD: https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/3/DDD.JPG
 
-4. SonarCloud is a cloud-based platform for continuous code quality analysis and improvement. It is part of the SonarQube family of tools, which provide a comprehensive solution for managing code quality, security, and technical debt. I used SonarCloud for my project. Please, have a look at the provided links below:
+<p align="justify">4. SonarCloud is a cloud-based platform for continuous code quality analysis and improvement. It is part of the SonarQube family of tools, which provide a comprehensive solution for managing code quality, security, and technical debt. I used SonarCloud for my project. Please, have a look at the provided links below:</p>
 
 https://sonarcloud.io/summary/new_code?id=RKMAMUN_Hotel_management_system
 
-5.Clean Code Development: Clean code refers to code that is well-organized, readable, maintainable, and easy to understand. It follows best practices, coding standards, and design patterns to ensure that the code is of high quality.
+<p align="justify">5.Clean Code Development: Clean code refers to code that is well-organized, readable, maintainable, and easy to understand. It follows best practices, coding standards, and design patterns to ensure that the code is of high quality.</p>
 In my project I tried to follow clean code.
 Here is my clean code points:
  1. Commenting where needed
@@ -45,11 +45,11 @@ Here is my clean code points:
 I have also some screenshot as cheat sheet
 https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/5/Cheat%20Sheet.pdf
 
-7. Build management for PHP refers to the process of automating the build and deployment of PHP applications. This involves managing the build environment, defining build processes, and automating build and deployment tasks. The goal of build management for PHP is to streamline the development process, reduce errors, and increase efficiency.
+<p align="justify">6. Build management for PHP refers to the process of automating the build and deployment of PHP applications. This involves managing the build environment, defining build processes, and automating build and deployment tasks. The goal of build management for PHP is to streamline the development process, reduce errors, and increase efficiency.</p>
 
 
-7. Unit testing is a software testing technique in which individual units or components of a software application are tested in isolation from the rest of the application. The goal of unit testing is to validate that each unit or component of the application works as intended, and to detect and prevent bugs early in the development process. This can help to reduce the overall cost and time required to deliver a quality product.
-Unit tests are typically automated and are run frequently during the development process, such as after each change to the code or at least once a day. They are written by developers as part of the development process, and they provide a fast and efficient way to validate that the code works as expected.
+<p align="justify">7. Unit testing is a software testing technique in which individual units or components of a software application are tested in isolation from the rest of the application. The goal of unit testing is to validate that each unit or component of the application works as intended, and to detect and prevent bugs early in the development process. This can help to reduce the overall cost and time required to deliver a quality product.
+Unit tests are typically automated and are run frequently during the development process, such as after each change to the code or at least once a day. They are written by developers as part of the development process, and they provide a fast and efficient way to validate that the code works as expected.</p>
 
 some example of tests:
 1. https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/7/reserve_room_test.php
@@ -62,9 +62,9 @@ The testUpdateRoom method tests the updateRoom method by adding a room, updating
 
 3. https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/7/Complain_controller_test.php
 
-The testComplainMethod method tests the complain method by making a GET request to the complain route and verifying that the correct view is returned.
+<p align="justify">The testComplainMethod method tests the complain method by making a GET request to the complain route and verifying that the correct view is returned.
 The testGetComplainMethod method tests the getcomplain method by creating 5 complain records, making a GET request to the getcomplain route, and verifying that the correct number of records is returned.
-The testResolveMethod method tests the resolve method by creating a complain record, making a PUT request to the resolve route with the id and budget parameters, and verifying that the correct values are updated in the database.
+The testResolveMethod method tests the resolve method by creating a complain record, making a PUT request to the resolve route with the id and budget parameters, and verifying that the correct values are updated in the database.</p>
 
 
 
@@ -83,7 +83,7 @@ Ctrl +Alt + L - reformat code<br />
 Alt + Enter - show intention actions and quick-fixes<br />
 Ctrl + Shift + Enter - complete statement<br />
 
-10. A domain-specific language (DSL) is a programming language that is tailored to a specific application domain, rather than being a general-purpose language that can be used for any kind of software development. A DSL is designed to make it easier to specify the operations and rules that are specific to a particular domain, and it often provides a higher level of abstraction than a general-purpose language. This makes DSLs more concise, expressive, and easier to understand for people who are experts in the target domain.<br/>
+<p align="justify">10. A domain-specific language (DSL) is a programming language that is tailored to a specific application domain, rather than being a general-purpose language that can be used for any kind of software development. A DSL is designed to make it easier to specify the operations and rules that are specific to a particular domain, and it often provides a higher level of abstraction than a general-purpose language. This makes DSLs more concise, expressive, and easier to understand for people who are experts in the target domain.</p><br/>
 
 Here's a small example of a Domain-Specific Language (DSL) in PHP:<br/>
 https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/10/DSL.php<br/>
@@ -92,12 +92,12 @@ This example demonstrates how a DSL can be used to simplify a complex task by pr
 
 I also wrote an example code for email validation check.<br/>
 https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/10/email_validation.php <br/>
-This example checks the validity of an email address and prints a message indicating whether the email address is valid or not. This function takes an email address as an argument and returns true if the email address is valid and false otherwise. The regular expression in the function checks the syntax of the email address to make sure that it meets the basic requirements for an email address, such as having a correct format for the username, domain name, and top-level domain.
+<p align="justify">This example checks the validity of an email address and prints a message indicating whether the email address is valid or not. This function takes an email address as an argument and returns true if the email address is valid and false otherwise. The regular expression in the function checks the syntax of the email address to make sure that it meets the basic requirements for an email address, such as having a correct format for the username, domain name, and top-level domain.</p>
 
 
 
 
-11. Functional Programming: Functional programming is a programming paradigm that is based on the mathematical concept of functions. In functional programming, functions are treated as first-class citizens, meaning that they can be used just like any other data type in the language, such as numbers or strings.<br/>
+<p align="justify">11. Functional Programming: Functional programming is a programming paradigm that is based on the mathematical concept of functions. In functional programming, functions are treated as first-class citizens, meaning that they can be used just like any other data type in the language, such as numbers or strings.</p><br/>
 For function as parameter and return value and closure<br/>
 
 https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/11/reservation.php
