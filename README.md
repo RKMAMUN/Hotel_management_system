@@ -87,8 +87,8 @@ Ctrl + Shift + Enter - complete statement<br />
 
 Here's a small example of a Domain-Specific Language (DSL) in PHP:<br/>
 https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/10/DSL.php<br/>
-In this example, I have created a PageBuilder class that has methods for building a simple HTML page. The header, content, and footer methods return the corresponding HTML code, and the build method combines these methods to build a complete HTML page. The build method is called with the title and content of the page, and the resulting HTML code is echoed to the screen.
-This example demonstrates how a DSL can be used to simplify a complex task by providing a simple and intuitive interface for building HTML pages. By using a DSL, developers can focus on the task at hand, rather than worrying about the underlying HTML code.
+<p align="justify">In this example, I have created a PageBuilder class that has methods for building a simple HTML page. The header, content, and footer methods return the corresponding HTML code, and the build method combines these methods to build a complete HTML page. The build method is called with the title and content of the page, and the resulting HTML code is echoed to the screen.
+This example demonstrates how a DSL can be used to simplify a complex task by providing a simple and intuitive interface for building HTML pages. By using a DSL, developers can focus on the task at hand, rather than worrying about the underlying HTML code.</p>
 
 I also wrote an example code for email validation check.<br/>
 https://github.com/RKMAMUN/Hotel_management_system/blob/main/11%20Points/10/email_validation.php <br/>
